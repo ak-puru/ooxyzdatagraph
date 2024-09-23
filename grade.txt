@@ -1,0 +1,28 @@
+AnonID: 1000382193
+Marking TAs:
+    Correctness: Alireza Isavand
+    Submission Validity: Kushankur Ghosh
+
+CMPUT 274, Fall 2023
+Marking Guidelines for Weekly Exercise #5 OO XY Data
+==================================================
+** Correctness (total 90):
+
+    5/5 public test cases passed!
+
+    [Summary] 90.0/90 (5/5 passed)
+--------------------------------------------------
+    [Total mark] 90.00/100
+==================================================
+
+----------------------------------------------------
+   2/3 hidden test cases passed! (not for marks)
+
+=======================================================
+** Submission Validity (10)
+
+    * README (deduct at most 10 marks)
+
+   [Summary] 10/10
+----------------------------------------------------
+   [Total mark] 100/100
